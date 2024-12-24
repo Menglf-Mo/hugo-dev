@@ -2,98 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/</loc>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/"
                 />
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/categories/</loc>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/categories/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/categories/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/categories/"
                 />
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/p/test-chinese/</loc>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/post/"
-                />
-  </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/categories/test/"
-                />
-  </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/page/</loc>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/p/markdown-syntax-guide/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/page/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/page/"
+                href="https://Menglf-Mo.github.io/Mo-Blog/tags/"
                 />
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/tags/"
-                />
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://menglf-mo.github.io/hugo-dev/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://menglf-mo.github.io/hugo-dev/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://menglf-mo.github.io/hugo-dev/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/p/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/categories/test-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/p/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/p/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/links/</loc>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/search/</loc>
+  </url><url>
+    <loc>https://Menglf-Mo.github.io/Mo-Blog/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

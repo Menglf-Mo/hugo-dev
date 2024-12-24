@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Menglf-mo</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/en/</link>
+        <description>Recent content on Menglf-mo</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Menglf-mo Person</copyright><atom:link href="https://Menglf-Mo.github.io/Mo-Blog/en/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Menglf-mo</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/</link>
-        <description>Recent content in Tags on Menglf-mo</description>
+        <title>Tags on 墨客</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/</link>
+        <description>Recent content in Tags on 墨客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Menglf-mo Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://menglf-mo.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Menglf-Mo.github.io/Mo-Blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/css/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/css/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/html/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/html/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/markdown/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/markdown/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/themes/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/themes/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/tag-with-whitespaces/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/tag-with-whitespaces/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/text/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/text/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/emoji/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/tags/emoji/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/tags/emoji/</guid>
         <description></description>
         </item>
         

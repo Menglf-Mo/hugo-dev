@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Emoji on Menglf-mo</title>
-        <link>https://menglf-mo.github.io/hugo-dev/tags/emoji/</link>
-        <description>Recent content in Emoji on Menglf-mo</description>
+        <title>Emoji on 墨客</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/tags/emoji/</link>
+        <description>Recent content in Emoji on 墨客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Menglf-mo Person</copyright>
-        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://menglf-mo.github.io/hugo-dev/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Menglf-Mo.github.io/Mo-Blog/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Emoji Support</title>
-        <link>https://menglf-mo.github.io/hugo-dev/p/emoji-support/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/p/emoji-support/</guid>
-        <description>&lt;img src="https://menglf-mo.github.io/hugo-dev/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/p/emoji-support/</guid>
+        <description>&lt;img src="https://Menglf-Mo.github.io/Mo-Blog/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;

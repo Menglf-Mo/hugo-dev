@@ -1,42 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Menglf-mo</title>
-        <link>https://menglf-mo.github.io/hugo-dev/categories/</link>
-        <description>Recent content in Categories on Menglf-mo</description>
+        <title>Categories on 墨客</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/</link>
+        <description>Recent content in Categories on 墨客</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>Menglf-mo Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://menglf-mo.github.io/hugo-dev/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Menglf-Mo.github.io/Mo-Blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/categories/test/</guid>
+        <description>&lt;img src="https://Menglf-Mo.github.io/Mo-Blog/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Syntax</title>
-        <link>https://menglf-mo.github.io/hugo-dev/categories/syntax/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/categories/syntax/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://menglf-mo.github.io/hugo-dev/categories/themes/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/categories/themes/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/categories/themes/</guid>
         <description></description>
         </item>
         <item>
-        <title>Test</title>
-        <link>https://menglf-mo.github.io/hugo-dev/categories/test/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://menglf-mo.github.io/hugo-dev/categories/test/</guid>
-        <description>&lt;img src="https://menglf-mo.github.io/hugo-dev/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
         <title>Test With Whitespaces</title>
-        <link>https://menglf-mo.github.io/hugo-dev/categories/test-with-whitespaces/</link>
+        <link>https://Menglf-Mo.github.io/Mo-Blog/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://menglf-mo.github.io/hugo-dev/categories/test-with-whitespaces/</guid>
+        <guid>https://Menglf-Mo.github.io/Mo-Blog/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
